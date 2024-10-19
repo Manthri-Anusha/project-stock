@@ -1,1 +1,2 @@
 # stock-trading
+# project-stock
